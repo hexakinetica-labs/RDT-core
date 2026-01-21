@@ -2,8 +2,8 @@
 # Robot Development Toolkit (RDT)
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/hexakinetica/rdt-core/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/hexakinetica/rdt-core/pulls)
+[![License: GPLv_3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://opensource.org/licenses/AGPL_v3)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/hexakinetica/HexaMotion/pulls)
 
 **A production-grade, open-source C++ architecture for industrial robot controllers.**
 
